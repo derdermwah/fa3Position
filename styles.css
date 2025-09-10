@@ -1,0 +1,28 @@
+#wrap {
+    width: 75%;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #bebebe;
+    margin: auto;
+}
+#albumcover {
+    border: black 1px solid;
+}
+#songlink {
+    background-color: #d6d6d6;
+    width: 350px;
+    position: fixed;
+    left: relative;
+    bottom: 0%;
+    text-align: justify;
+    border: solid #424242 1px;
+}
+h5{
+    position: relative;
+    bottom: 20px;
+}
+#playbutton {
+    float: left;
+    height: 120px;
+    width: auto;
+}
